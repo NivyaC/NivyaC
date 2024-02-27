@@ -1,5 +1,5 @@
 ### Hi there 👋
-Iam a passionate leaner 
+I am a passionate leaner, pursing b-tech in computer science engineering.
 
 <!--
 **NivyaC/NivyaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
